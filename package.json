@@ -1,7 +1,7 @@
 {
-  "name": "XBOT",
+  "name": "BOTZ-THUNDER",
   "version": "1.0.0",
-  "description": "Xbot for whatsapp online with termux",
+  "description": "Botz-thunder for whatsapp online with termux",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -13,7 +13,7 @@
   "keywords": [
     "k"
   ],
-  "author": "affis junianto",
+  "author": "Andi irzan Akbar",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/affisjunianto/botwasapv2.git"
